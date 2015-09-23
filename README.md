@@ -17,9 +17,21 @@ Usage
     url: 'http://sharrre.com'
      });
 
+Install
+===
+
+using bower:
+
+`bower install sharrre --save` or download it [here](http://sharrre.com/#download)
+
+finally include jquery.sharrre.min.js unto your page:
+
+`<script href="/bower-components/sharrre/jquery.sharrre.min.js"></script>`
+
 Example
 ===
-    
+
+ 
   <div id="demo1" data-title="sharrre" data-url="http://sharrre.com" ></div>
   $(document).ready(function(){
     $('#demo1').sharrre({
@@ -44,7 +56,8 @@ Example
     });
   });
 
-  See example on [official website] (http://sharrre.com/#demos)
+
+See example on [official website] (http://sharrre.com/#demos)
 	
 
 Dependencies
