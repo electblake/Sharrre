@@ -1,0 +1,26 @@
+{
+  "name": "sharrre",
+  "version": "1.3.5",
+  "description": "Sharrre.com - Make your sharing widget!",
+  "main": "jquery.sharrre.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electblake/Sharrre.git"
+  },
+  "keywords": [
+    "sharrre",
+    "social",
+    "social",
+    "sharing",
+    "sharer"
+  ],
+  "author": "Julien Hany",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/electblake/Sharrre/issues"
+  },
+  "homepage": "https://github.com/electblake/Sharrre#readme"
+}
