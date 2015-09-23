@@ -5,8 +5,8 @@
   "authors": [
     "Julien Hany"
   ],
-  "description": "Make your sharing widget! Sharrre is a jQuery plugin that allows you to create nice widgets sharing for Facebook, Twitter, Google Plus (with PHP script) and more. http://sharrre.com",
-  "main": "./jquery.sharrre.min.js",
+  "description": "Make your sharing widget! Sharrre is a jQuery plugin that allows you to create nice widgets sharing for Facebook, Twitter, Google Plus and more.",
+  "main": "./jquery.sharrre.js",
   "keywords": [
     "sharrre",
     "social",
